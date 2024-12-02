@@ -1,0 +1,32 @@
+[
+    {
+        "file": "processed\\english_processed.txt",
+        "size": 73,
+        "checksum": "df7f787200c9a23cedc97a79d8739c46ecc1d54ec9c8abf22eb51735b77372e1"
+    },
+    {
+        "file": "processed\\france_processed.txt",
+        "size": 62,
+        "checksum": "f3bad0bdea5187cb2850eade16f509916cd71efde17a9e07cd89ed40de1cedc1"
+    },
+    {
+        "file": "processed\\russian_processed.txt",
+        "size": 130,
+        "checksum": "ab11b85207e302efa448bcfb74795b3f609de73d5833037e4b090fe31bff28a3"
+    },
+    {
+        "file": "raw\\english.txt",
+        "size": 73,
+        "checksum": "4686c605fd56df0cb04de8b81b016068a1762e5835ba41716ff9695219373e33"
+    },
+    {
+        "file": "raw\\france.txt",
+        "size": 62,
+        "checksum": "fae41017383b88db6f95305e126faba7c5c52de3cb809f61651e034320ccd12b"
+    },
+    {
+        "file": "raw\\russian.txt",
+        "size": 130,
+        "checksum": "742dcd513b5dda47b1996195d17eb92481bdae00c9fc90b3d16efbaf26cbcca9"
+    }
+]

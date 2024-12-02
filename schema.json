@@ -1,0 +1,33 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "name": {
+                "type": "string"
+            },
+            "path": {
+                "type": "string"
+            },
+            "size": {
+                "type": "integer"
+            },
+            "creation_date": {
+                "type": "string",
+                "format": "date-time"
+            },
+            "modification_date": {
+                "type": "string",
+                "format": "date-time"
+            }
+        },
+        "required": [
+            "name",
+            "path",
+            "size",
+            "creation_date",
+            "modification_date"
+        ]
+    }
+}
